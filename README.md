@@ -16,3 +16,8 @@ Veeam Exporter retrieves the number of successful or failed backups via the API.
 ## Installation
 
 Clone the repository and fill in the veeam_server, username, and password variables with your Veeam Backup & Replication credentials.
+
+## Warning
+
+This project may be updated during my free time. It addresses a personal need and works as intended.
+Feel free to contribute or fork it.
